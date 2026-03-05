@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="./screenshots/logo.png" alt="NeoMeet Logo" width="200"/>
   
   # NeoMeet - Video Conferencing Application
   
